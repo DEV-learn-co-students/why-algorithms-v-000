@@ -5,12 +5,12 @@ With this lesson, we begin our journey into algorithms.
 ![alt minion-applause](	https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/minions_applause.jpg)
 > Pause for applause and smiles.  
 
-So what is an algorithm?  The word algorithm is just a fancy word for procedure.  Skeptical that it's that simple?  Let's see what the great oracle Wikipedia tells us.
+So what is an algorithm?  The word algorithm is just a fancy word for procedure. Skeptical that it's that simple? Let's see what the great oracle Wikipedia tells us.
 
 
 ![alt algorithm](https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/algorithm.jpg)
 
-Like we said, a procedure.  Yes, it's vague.  Yes, you have been coding procedures since you've started this course.  When we explore algorithms, we'll consider procedures that have already been implemented in many languages.  For example, both Ruby and Javascript have a sort method and a find method.  In our discussion, we'll learn how they work.
+Like we said, a procedure. Yes, it's vague. Yes, you have been coding procedures since you've started this course. When we explore algorithms, we'll consider procedures that have already been implemented in many languages. For example, both Ruby and Javascript have a `sort` method and a `find` method. In our discussion, we'll learn how they work.
 
 ### Why learn algorithms
 
