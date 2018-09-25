@@ -12,7 +12,7 @@ So what is an algorithm?  The word algorithm is just a fancy word for procedure.
 
 Like we said, a procedure. Yes, it's vague. Yes, you have been coding procedures since you've started this course. When we explore algorithms, we'll consider procedures that have already been implemented in many languages. For example, both Ruby and Javascript have a `sort` method and a `find` method. In our discussion, we'll learn how they work.
 
-### Why learn algorithms
+### Why learn algorithms?
 
 With the knowledge that these algorithms already been solved and implemented by others, we can now accord them the proper spot in our coding brain.  We find them very important to understand as they are tools all languages (and therefore, us as programmers) lean on.  In addition, the problems they solve are generic enough that we can draw parallels to them when coding day to day, and therefore can lean on the shoulders of giants when solving a similar problem.  
 
